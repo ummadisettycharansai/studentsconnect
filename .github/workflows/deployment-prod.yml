@@ -10,8 +10,8 @@ on:
         required: true
         type: string
 env:
-  AWS_REGION: ap-south-1
-  S3_BUCKET: "tejas-idsk229"
+  AWS_REGION:  eu-north-1
+  S3_BUCKET: "2303031300047"
 
 permissions:
   contents: read
